@@ -1,0 +1,4 @@
+Full Name , Username, Email ,Password
+vard , null , vard_tovmasyan@mail.ru , VArd123a , tovmasyan
+vard , null , vard_tovmasyan@mail.ru , AAdefrt123 , tovmasyan
+vard , asedrftgyhj , vard_tovmasyan@mail.ru , ASwerty123 , tovmasyan
